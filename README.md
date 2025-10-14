@@ -1,2 +1,1 @@
-# sistoperacional
-deixa o github aberto no lab n po
+# Simulação de fila de atendimento com threads e semáforos
